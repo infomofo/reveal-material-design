@@ -4,6 +4,7 @@
     [
         "how-did-we-get-here.html",
         "skeumorphism.html",
+        "ios7-the-death-of-skeuomorphism.html",
         "flat-ui.html",
         "material-design.html"
     ],
@@ -15,9 +16,7 @@
         "one-adaptive-design.html",
         "content-is-bold-graphic-and-intentional.html",
         "color-surface-and-iconography-emphasize-actions.html",
-        "users-initiate-change.html",
-        "animation-is-choreographed-on-a-shared-stage.html",
-        "motion-provides-meaning.html"
+        "users-initiate-change.html"
     ],
     "how-do-i-get-material-design.html",
     "polymer.html",

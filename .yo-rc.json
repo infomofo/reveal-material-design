@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Material Design",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

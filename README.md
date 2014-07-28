@@ -6,7 +6,7 @@ a presentation on material design.  iFrame content is from [the polymer project]
 View it on github
 -----------------
 
-[here](https://infomofo.github.io/reveal-material-design/#/)
+[here](http://infomofo.github.io/reveal-material-design/#/) (note, this link only will work in http mode, not https due to the iframes used)
 
 Run it yourself
 ---------------
